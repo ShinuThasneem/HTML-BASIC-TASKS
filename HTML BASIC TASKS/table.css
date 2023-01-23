@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/173/952/871/field-sport-football-stadium-wallpaper-preview.jpg");
+    /* background-color: aqua; */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+tr h1{
+font-size:xx-large;
+word-spacing: 5px;
+background-color: rgb(71, 133, 247);
+height: 90px;
+width:60%;
+margin-left: 60%;
+margin-top: 10%;color: aliceblue;
+
+}
+table{
+
+border: 1px  black;
+background-color: rgb(250, 248, 247);
+border-collapse: collapse;
+line-height: 30px;
+width: 60%;
+height: 200%;
+
+
+}
+#div1{
+background-color: rgb(241, 231, 227);
+width: 90%;
+height: 600%;
+}
+tr{
+    width: 40%;
+    height: 60%;
+    background-color: cornflowerblue;
+    margin-left: 30%;
+}
